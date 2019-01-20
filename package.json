@@ -1,0 +1,19 @@
+{
+  "name": "simpl",
+  "version": "1.0.0",
+  "description": "Simple image placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witran/simpl.git"
+  },
+  "author": "William Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/witran/simpl/issues"
+  },
+  "homepage": "https://github.com/witran/simpl#readme"
+}
